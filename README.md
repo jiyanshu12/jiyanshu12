@@ -4,7 +4,7 @@
 
 ### Hi there, I am Jiyanshu Chakraborty 👋
 [![Linkedin Badge](https://img.shields.io/badge/-jiyanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/jiyanshu-chakraborty-96810b283/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-jiyanshu.chakraborty25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyanshu.chakraborty25@gmail.com)](mailto:jiyanshu.chakraborty25@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://jiyanshu12.github.io/portfolio-website/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
