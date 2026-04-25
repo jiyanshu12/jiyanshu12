@@ -2,7 +2,7 @@
 
 
 
-### Hi there, I am Jiyanshu Chakraborty 👋
+### Hi everyone , I am Jiyanshu Chakraborty  , BCA 6 sem👋
 [![Linkedin Badge](https://img.shields.io/badge/-jiyanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/jiyanshu-chakraborty-96810b283/)
 [![Gmail Badge](https://img.shields.io/badge/-jiyanshu.chakraborty25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyanshu.chakraborty25@gmail.com)](mailto:jiyanshu.chakraborty25@gmail.com) 
 
